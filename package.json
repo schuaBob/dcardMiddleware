@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/schuaBob/dcardMiddleware#readme",
   "dependencies": {
-    "mongoose": "^5.9.7"
+    "mongoose": "^5.13.15"
   }
 }
